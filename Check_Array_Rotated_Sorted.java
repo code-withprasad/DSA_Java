@@ -1,5 +1,4 @@
-// Letcode  1752 
-package funfolder;
+// Leetcode  1752 
 import java.util.Scanner;
 class Check_Array_Rotated_Sorted {
       public static int[] take_input(){
