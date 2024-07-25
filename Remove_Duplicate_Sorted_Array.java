@@ -1,4 +1,4 @@
-// Letcode 26. Remove Duplicates from Sorted Array
+// Leetcode 26. Remove Duplicates from Sorted Array
 package funfolder;
 import java.util.Scanner;
 public class Remove_Duplicate_Sorted_Array {
